@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Manojrsachar
-- 👀 I’m interested in Programming
+- 👋 Hi, I’m Manoj RS
+- 👀 I’m interested in Programming and Software development
 - 🌱 I’m currently learning Java Full Stack Developement
 - 📫 How to reach me https://www.linkedin.com/in/manojrsachar
 
