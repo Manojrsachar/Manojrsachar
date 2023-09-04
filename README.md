@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manoj RS
 - 👀 I’m interested in Programming and Software development
-- 🌱 I’m currently learning Java Full Stack Developement
+- 🌱 I’m currently learning Java Full Stack Development
 - 📫 How to reach me https://www.linkedin.com/in/manojrsachar
 
 - Aspiring to be an integral member of a dynamic technology-based
